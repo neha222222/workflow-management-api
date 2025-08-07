@@ -70,6 +70,10 @@ src/main/java/com/workforcemgmt/
 ### Staff Management
 - `GET /api/tasks/staff` - Get all staff members
 
+## Video Demo
+
+https://github.com/user-attachments/assets/972534e0-712e-4a4b-95a1-26229cbb65ff
+
 ## Quick Start
 
 ### Prerequisites
